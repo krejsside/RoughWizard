@@ -30,7 +30,7 @@ goto RedirectMenu
 setlocal enabledelayedexpansion
 
 REM Ustaw lokalną wersję
-set "local=2.55"
+set "local=0.0.3"
 set "localtwo=!local!"
 
 REM Adres URL repozytorium GitHuba
